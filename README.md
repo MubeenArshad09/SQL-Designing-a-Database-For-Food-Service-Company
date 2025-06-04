@@ -33,7 +33,7 @@ This project contains a structured SQL solution for analyzing restaurant perform
 - Write advanced SQL queries for meaningful business insights
 - Practice best practices in query performance and readability
 
-## 📬 Contact
+## 👩‍💻 Author
 
 **Dr. Mubeen Arshad**  
 [LinkedIn Profile](https://www.linkedin.com/in/mubeen-arshad-/)
