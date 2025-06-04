@@ -35,4 +35,5 @@ This project contains a structured SQL solution for analyzing restaurant perform
 
 ## 📬 Contact
 
-For questions or suggestions, feel free to reach out via [LinkedIn](https://linkedin.com/in/yourprofile) or explore more on my [GitHub](https://github.com/yourusername).
+**Dr. Mubeen Arshad**  
+[LinkedIn Profile](https://www.linkedin.com/in/mubeen-arshad-/)
